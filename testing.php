@@ -11,13 +11,6 @@
     <h1>Hellow</h1>
     <li>1</li>
     <li>1</li>
-    <li>1</li>
-    <li>1</li>
-    <li>1</li>
-    <li>1</li>
-    <li>1</li>
-    <li>1</li>
-    <li>1</li>
 </body>
 
 </html>
